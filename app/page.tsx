@@ -3,7 +3,7 @@
 import { useState } from "react";
 import {
   ArrowDownLeft, ArrowLeft, ArrowUpLeft, Check, Instagram, Menu, MessageCircle,
-  PenTool, Play, Send, Sparkles, Target, TrendingUp, X, Zap
+  PenTool, Play, Send, Sparkles, Target, TrendingUp, X
 } from "lucide-react";
 
 const services = [
